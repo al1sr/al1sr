@@ -3,6 +3,7 @@
 A results-driven data professional passionate about transforming raw, complex, and un-structured datasets into scalable data pipelines, predictive models, and strategic business insights.
 
 ### About me
+*  Graduate with a **Bachelor's degree in Economics**, totally studied in english at University Carlos III.
 *  Graduate with a **Master's Degree in Data Science**, specializing in end to end analytical pipelines, statistical modeling, and data engineering architectures.
 *  My core expertise lies in designing robust data curation workflows, managing database schemas, and building interactive business intelligence systems.
 *  Currently exploring advanced distributed computing workflows, automated deployment of pipelines, and production-level machine learning architectures.
