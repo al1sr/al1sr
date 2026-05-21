@@ -27,25 +27,25 @@ A results-driven data professional passionate about transforming raw, complex, a
 >
 > ---
 >
-> ###  [Telecom Customer Churn Prediction](./telecom-customer-churn-r)
+> ###  [Telecom Customer Churn Prediction](https://github.com/al1sr/TelcoChurn_R)
 > **Stack:** `R` • `Caret` • `Glmnet` • `pROC`  
 > Application of advanced statistical inference, logistic regression, and predictive regularization models (Ridge and Lasso) using cross-validation to prevent user attrition and handle corporate dataset balancing.
 >
 > ---
 >
-> ###  [Streaming Platform Content Analysis](./streaming-content-bigdata)
+> ###  [Streaming Platform Content Analysis](https://github.com/al1sr/Netflix_bigdata)
 > **Stack:** `Python` • `Apache Spark` • `Parquet`  
 > Cloud-ready big data engineering pipeline targetting compressed columnar metadata and nested arrays to track international streaming production hubs and release timeline trends.
 >
 > ---
 >
-> ###  [Global Emissions and Climate Change](./global-emissions-analysis-r)
+> ###  [Global Emissions and Climate Change](https://github.com/al1sr/Global_emissions_analysis_R)
 > **Stack:** `R` • `Tidyverse` • `Plotly`  
 > Statistical transformation, custom multi-variable reshaping, and data cleaning using advanced functional pivoting techniques to isolate specific environmental pollution metrics by industry.
 >
 > ---
 >
-> ###  [Traffic Accident Analysis in Madrid](./madrid-traffic-analysis)
+> ###  [Traffic Accident Analysis in Madrid](./Madrid_accidents)
 > **Stack:** `Python` • `Pandas` • `Seaborn`  
 > Consolidation and deep data cleaning of a multi-year municipal open data corpus encompassing over **312,000 records** to identify temporal and seasonal trends in road safety.
 
