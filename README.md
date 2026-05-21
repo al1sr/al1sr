@@ -1,4 +1,4 @@
-# Hi, I am Alicia Santamaría Román 👋
+# Hi, I am Alicia 👋
 
 A results-driven data professional passionate about transforming raw, complex, and un-structured datasets into scalable data pipelines, predictive models, and strategic business insights.
 
