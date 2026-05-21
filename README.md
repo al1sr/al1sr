@@ -21,7 +21,7 @@ A results-driven data professional passionate about transforming raw, complex, a
 
 ###  Featured repositories
 
-> ###  [End to End Ticketing BI Pipeline](./ticketing-bi-pipeline)
+> ###  [End to End Ticketing BI Pipeline](/ticketing-bi-pipeline)
 > **Stack:** `Apache Hop` • `MySQL` • `Tableau`  
 > Design of a complete data warehouse infrastructure using a medallion architecture (bronze, silver, gold) to isolate data extraction and monitor service level agreements (SLA) alongside internal backlog dynamics.
 >
