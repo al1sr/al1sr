@@ -45,4 +45,4 @@ Here is a selection of my core projects developed throughout my academic and pra
 Are you interested in my profile or looking to discuss data architecture and analytics? Feel free to reach out!
 
 *  **LinkedIn:** [linkedin.com/in/aliciasantamariaroman](https://linkedin.com/in/aliciasantamariaroman)
-*  **Email:** [your-email@example.com](mailto:your-email@example.com)
+*  **Email:** [your-email@example.com](aliciasantamariaroman@gmail.com)
