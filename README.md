@@ -14,22 +14,22 @@ A results-driven data professional passionate about transforming raw, complex, a
 ### Technical stack
 
 **Data engineering and databases**
-![Apache Hop](https://img.shields.io/badge/Apache_Hop-24265D?style=flat-square&logo=apache&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B5C?style=flat-square&logo=postgresql&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+- ![Apache Hop](https://img.shields.io/badge/Apache_Hop-24265D?style=flat-square&logo=apache&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-003B5C?style=flat-square&logo=postgresql&logoColor=white)
+- ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
 **Programming languages and tools**
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-%2375AADB.svg?style=flat-square&logo=rstudio&logoColor=white)
+- ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+- ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
+- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+- ![RStudio](https://img.shields.io/badge/RStudio-%2375AADB.svg?style=flat-square&logo=rstudio&logoColor=white)
 
 **Data science and visualization**
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![Tidyverse](https://img.shields.io/badge/tidyverse-%23143157.svg?style=flat-square&logo=tidyverse&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97628?style=flat-square&logo=tableau&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+- ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+- ![Tidyverse](https://img.shields.io/badge/tidyverse-%23143157.svg?style=flat-square&logo=tidyverse&logoColor=white)
+- ![Tableau](https://img.shields.io/badge/Tableau-E97628?style=flat-square&logo=tableau&logoColor=white)
+- ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
 ### Featured repositories
 
