@@ -8,8 +8,6 @@ A results-driven data professional passionate about transforming raw, complex, a
 *  My core expertise lies in designing robust data curation workflows, managing database schemas, and building interactive business intelligence systems.
 *  Currently exploring advanced distributed computing workflows, automated deployment of pipelines, and production-level machine learning architectures.
 
----
-
 ###  Technical stack
 
 | Category | Technologies & Tools |
@@ -49,8 +47,6 @@ A results-driven data professional passionate about transforming raw, complex, a
 > ###  [Traffic Accident Analysis in Madrid](./Madrid_accidents)
 > **Stack:** `Python` • `Pandas` • `Seaborn`  
 > Consolidation and deep data cleaning of a multi-year municipal open data corpus encompassing over **312,000 records** to identify temporal and seasonal trends in road safety.
-
----
 
 ###  Let's connect
 Are you interested in my profile or looking to discuss data architecture and analytics? Feel free to reach out!
