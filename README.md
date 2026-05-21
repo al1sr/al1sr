@@ -38,6 +38,12 @@ A results-driven data professional passionate about transforming raw, complex, a
 >
 > ---
 >
+> ###  [Car Depreciation and Market Value Analysis](https://github.com/al1sr/Depreciation_analysis_and_market_value)
+> **Stack:** `Python` • `Pandas` • `Seaborn`  
+> Detailed exploratory data analysis (EDA) and data cleansing pipeline on automotive marketplace transactions, implementing domain-specific outlier filtering and mathematical stabilization.
+>
+> ---
+> 
 > ###  [Global Emissions and Climate Change](https://github.com/al1sr/Global_emissions_analysis_R)
 > **Stack:** `R` • `Tidyverse` • `Plotly`  
 > Statistical transformation, custom multi-variable reshaping, and data cleaning using advanced functional pivoting techniques to isolate specific environmental pollution metrics by industry.
