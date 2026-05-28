@@ -22,14 +22,14 @@
 
 A results-driven data professional passionate about transforming raw, complex, and un-structured datasets into scalable data pipelines, predictive models, and strategic business insights.
 
-* 🎓 Graduate with a **Bachelor's degree in Economics**, fully studied in english at University Carlos III.
-* 🎓 Graduate with a **Master's Degree in Data Science**, specializing in end to end analytical pipelines, statistical modeling, and data engineering architectures.
-* 💡 My core expertise lies in designing robust data curation workflows, managing database schemas, and building interactive business intelligence systems.
-* 🌱 Currently exploring advanced distributed computing workflows, automated deployment of pipelines, and production-level machine learning architectures.
+* Graduate with a **Bachelor's degree in Economics**, fully studied in english at University Carlos III.
+* Graduate with a **Master's Degree in Data Science**, specializing in end to end analytical pipelines, statistical modeling, and data engineering architectures.
+* My core expertise lies in designing robust data curation workflows, managing database schemas, and building interactive business intelligence systems.
+* Currently exploring advanced distributed computing workflows, automated deployment of pipelines, and production-level machine learning architectures.
 
 ---
 
-### 📂 Featured repositories
+###  Featured repositories
 
 Here is a selection of my core data engineering and data science projects:
 
@@ -46,7 +46,7 @@ Design of a complete data warehouse infrastructure using a medallion architectur
 <td width="50%" valign="top">
 
 <p align="center"><b><a href="https://github.com/al1sr/TelcoChurn_R">Telecom Customer Churn Prediction</a></b></p>
-<p align="center"><img src="https://img.shields.io/badge/-R_Language-276DC3?style=flat-square" /> <img src="https://img.shields.io/badge/-Machine_Learning-🧠-orange?style=flat-square" /></p>
+<p align="center"><img src="https://img.shields.io/badge/-R_Language-276DC3?style=flat-square" /> <img src="https://img.shields.io/badge/-Machine_Learning-orange?style=flat-square" /></p>
 
 Application of advanced statistical inference, logistic regression, and predictive regularization models (Ridge and Lasso) using cross-validation to prevent user attrition and handle corporate dataset balancing.
 
@@ -64,7 +64,7 @@ Cloud-ready big data engineering pipeline targetting compressed columnar metadat
 <td width="50%" valign="top">
 
 <p align="center"><b><a href="https://github.com/al1sr/Depreciation_analysis_and_market_value">Car Depreciation & Market Value</a></b></p>
-<p align="center"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square" /> <img src="https://img.shields.io/badge/-Data_Cleaning-🧼-blue?style=flat-square" /></p>
+<p align="center"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square" /> <img src="https://img.shields.io/badge/-Data_Cleaning-blue?style=flat-square" /></p>
 
 Detailed exploratory data analysis (EDA) and data cleansing pipeline on automotive marketplace transactions, implementing domain-specific outlier filtering and mathematical stabilization.
 
@@ -82,7 +82,7 @@ Statistical transformation, custom multi-variable reshaping, and data cleaning u
 <td width="50%" valign="top">
 
 <p align="center"><b><a href="https://github.com/al1sr/Madrid_accidents">Traffic Accident Analysis in Madrid</a></b></p>
-<p align="center"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square" /> <img src="https://img.shields.io/badge/-Open_Data-📊-green?style=flat-square" /></p>
+<p align="center"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square" /> <img src="https://img.shields.io/badge/-Open_Data-green?style=flat-square" /></p>
 
 Consolidation and deep data cleaning of a multi-year municipal open data corpus encompassing over **312,000 records** to identify temporal and seasonal trends in road safety.
 
