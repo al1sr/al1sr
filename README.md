@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=276DC3&center=true&vCenter=true&width=435&lines=Alicia+Santamaría;Data+Scientist;Data+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=276DC3&center=true&vCenter=true&width=435&lines=Alicia+Santamaria;Data+Scientist;Data+Engineer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -12,8 +12,10 @@
   <img src="https://img.shields.io/badge/-R_Language-276DC3?style=flat-square&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-Apache_Hop-24265D?style=flat-square&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tableau-E97628?style=flat-square&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/-Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tableau-E97628?style=flat-square&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=microsoftpowerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Dataiku-243447?style=flat-square&logo=dataiku&logoColor=white" />
 </p>
 
 ---
