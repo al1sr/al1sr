@@ -92,7 +92,7 @@ Consolidation and deep data cleaning of a multi-year municipal open data corpus 
 
 ---
 
-### 🛠️ Technical skills & toolkit
+### Technical skills & toolkit
 
 <table>
 <tr>
@@ -113,13 +113,13 @@ Transforming dimensional data models into relational executive summaries. Expert
 
 ---
 
-### 💻 Ecosistema de herramientas
+### Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,tableau,github,git&theme=dark&perline=6" alt="Languages and BI Tools" />
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,github,git&theme=dark&perline=5" alt="Languages and BI Tools" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,ubuntu,linux,vscode,sublime,md&theme=dark&perline=6" alt="Infra and Environments" />
+  <img src="https://skillicons.dev/icons?i=docker,ubuntu,linux,vscode,sublime&theme=dark&perline=5" alt="Infra and Environments" />
 </p>
 
 ---
