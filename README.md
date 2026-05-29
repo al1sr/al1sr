@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=276DC3&center=true&vCenter=true&width=435&lines=Alicia+Santamaria;Data+Scientist;Python;R;SQL;Tableau;Power+BI;Dataiku" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=276DC3&center=true&vCenter=true&width=435&lines=Alicia+Santamaria;Data+Scientist;Machine+Learning;Python;R;SQL;Dataiku" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -9,64 +9,45 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/-XGBoost-EB6512?style=flat-square&logo=xgboost&logoColor=white" />
   <img src="https://img.shields.io/badge/-R_Language-276DC3?style=flat-square&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Apache_Hop-24265D?style=flat-square&logo=apache&logoColor=white" />
   <img src="https://img.shields.io/badge/-Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tableau-E97628?style=flat-square&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=microsoftpowerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/-Dataiku-243447?style=flat-square&logo=dataiku&logoColor=white" />
 </p>
 
 ---
 
-A results-driven data professional passionate about transforming raw, complex, and un-structured datasets into scalable data pipelines, predictive models, and strategic business insights.
+A results-driven Data Scientist and Machine Learning professional passionate about building end-to-end predictive pipelines, optimizing statistical models, and translating complex mathematical architectures into actionable corporate insights.
 
-* Graduate with a **Bachelor's degree in Economics**, fully studied in english at University Carlos III.
-* Graduate with a **Master's Degree in Data Science**, specializing in end to end analytical pipelines, statistical modeling, and data engineering architectures.
-* My core expertise lies in designing robust data curation workflows, managing database schemas, and building interactive business intelligence systems.
-* Currently exploring advanced distributed computing workflows, automated deployment of pipelines, and production-level machine learning architectures.
+* Graduate with a **Bachelor's degree in Economics**, fully studied in English at University Carlos III.
+* Graduate with a **Master's Degree in Data Science**, specializing in predictive modeling, advanced classification algorithms, feature engineering, and automated hyperparameter optimization.
+* Core expertise lies in designing robust statistical workflows, benchmarking algorithmic performance, handling class imbalance, and maximizing critical operational metrics (such as sensitivity and recall).
+* Currently exploring distributed learning infrastructures, production-level MLOps architectures, and advanced cluster-segmentation modeling.
 
 ---
 
 ###  Featured repositories
 
-Here is a selection of my core data engineering and data science projects:
+Here is a selection of my core data science, machine learning, and data engineering projects:
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<p align="center"><b><a href="https://github.com/al1sr/Ticketing_BI_pipeline">End to End Ticketing BI Pipeline</a></b></p>
-<p align="center"><img src="https://img.shields.io/badge/-Apache_Hop-24265D?style=flat-square" /> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square" /> <img src="https://img.shields.io/badge/-Tableau-E97628?style=flat-square" /></p>
+<p align="center"><b><a href="https://github.com/al1sr/Social_Ads_Purchase_Prediction">Social Ads Purchase Prediction</a></b></p>
+<p align="center"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square" /> <img src="https://img.shields.io/badge/-XGBoost-EB6512?style=flat-square" /></p>
 
-Design of a complete data warehouse infrastructure using a medallion architecture (bronze, silver, gold) to isolate data extraction and monitor service level agreements (SLA) alongside internal backlog dynamics.
-
-</td>
-<td width="50%" valign="top">
-
-<p align="center"><b><a href="https://github.com/al1sr/TelcoChurn_R">Telecom Customer Churn Prediction</a></b></p>
-<p align="center"><img src="https://img.shields.io/badge/-R_Language-276DC3?style=flat-square" /> <img src="https://img.shields.io/badge/-Machine_Learning-orange?style=flat-square" /></p>
-
-Application of advanced statistical inference, logistic regression, and predictive regularization models (Ridge and Lasso) using cross-validation to prevent user attrition and handle corporate dataset balancing.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<p align="center"><b><a href="https://github.com/al1sr/Netflix_bigdata">Streaming Platform Content Analysis</a></b></p>
-<p align="center"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/-Apache_Spark-E25A1C?style=flat-square" /> <img src="https://img.shields.io/badge/-Parquet-444444?style=flat-square" /></p>
-
-Cloud-ready big data engineering pipeline targetting compressed columnar metadata and nested arrays to track international streaming production hubs and release timeline trends.
+Algorithmic classification benchmarking and automated hyperparameter optimization using `GridSearchCV`. Features advanced data scaling and pipeline engineering to maximize target operational recall scores.
 
 </td>
 <td width="50%" valign="top">
 
-<p align="center"><b><a href="https://github.com/al1sr/Depreciation_analysis_and_market_value">Car Depreciation & Market Value</a></b></p>
-<p align="center"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square" /> <img src="https://img.shields.io/badge/-Data_Cleaning-blue?style=flat-square" /></p>
+<p align="center"><b><a href="https://github.com/al1sr/Madrid_accidents">Traffic Accident Analysis in Madrid</a></b></p>
+<p align="center"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square" /> <img src="https://img.shields.io/badge/-Seaborn-4C72B0?style=flat-square" /></p>
 
-Detailed exploratory data analysis (EDA) and data cleansing pipeline on automotive marketplace transactions, implementing domain-specific outlier filtering and mathematical stabilization.
+Consolidation and deep exploratory data analysis (EDA) of a multi-year municipal corpus encompassing over **312,000 records** to isolate statistical distributions and feature correlations for road safety.
 
 </td>
 </tr>
@@ -81,10 +62,46 @@ Statistical transformation, custom multi-variable reshaping, and data cleaning u
 </td>
 <td width="50%" valign="top">
 
-<p align="center"><b><a href="https://github.com/al1sr/Madrid_accidents">Traffic Accident Analysis in Madrid</a></b></p>
-<p align="center"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square" /> <img src="https://img.shields.io/badge/-Open_Data-green?style=flat-square" /></p>
+<p align="center"><b><a href="https://github.com/al1sr/Depreciation_analysis_and_market_value">Car Depreciation & Market Value</a></b></p>
+<p align="center"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square" /> <img src="https://img.shields.io/badge/-Data_Cleaning-blue?style=flat-square" /></p>
 
-Consolidation and deep data cleaning of a multi-year municipal open data corpus encompassing over **312,000 records** to identify temporal and seasonal trends in road safety.
+Detailed statistical profiling and data cleansing pipeline on automotive marketplace transactions, implementing domain-specific outlier filtering and mathematical target stabilization.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<p align="center"><b><a href="https://github.com/al1sr/Netflix_bigdata">Streaming Platform Content Analysis</a></b></p>
+<p align="center"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/-Apache_Spark-E25A1C?style=flat-square" /> <img src="https://img.shields.io/badge/-Parquet-444444?style=flat-square" /></p>
+
+Cloud-ready big data engineering pipeline targetting compressed columnar metadata and nested arrays to track international streaming production hubs and release timeline trends.
+
+</td>
+<td width="50%" valign="top">
+
+<p align="center"><b><a href="https://github.com/al1sr/TelcoChurn_R">Telecom Customer Churn Prediction</a></b></p>
+<p align="center"><img src="https://img.shields.io/badge/-R_Language-276DC3?style=flat-square" /> <img src="https://img.shields.io/badge/-Machine_Learning-orange?style=flat-square" /></p>
+
+Application of advanced statistical inference, logistic regression, and predictive regularization models (Ridge and Lasso) using cross-validation to prevent user attrition and handle corporate dataset balancing.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<p align="center"><b><a href="https://github.com/al1sr/Ticketing_BI_pipeline">End to End Ticketing BI Pipeline</a></b></p>
+<p align="center"><img src="https://img.shields.io/badge/-Apache_Hop-24265D?style=flat-square" /> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square" /> <img src="https://img.shields.io/badge/-Tableau-E97628?style=flat-square" /></p>
+
+Design of a complete data warehouse infrastructure using a medallion architecture (bronze, silver, gold) to isolate data extraction and monitor service level agreements (SLA) alongside internal backlog dynamics.
+
+</td>
+<td width="50%" valign="top">
+
+<p align="center"><b>En camino... 🛠️</b></p>
+<p align="center"><img src="https://img.shields.io/badge/-Next_ML_Project-💡-blue?style=flat-square" /></p>
+
+*Space reserved for upcoming advanced predictive models, clustering frameworks, or neural network architectures.*
 
 </td>
 </tr>
@@ -97,16 +114,16 @@ Consolidation and deep data cleaning of a multi-year municipal open data corpus 
 <table>
 <tr>
 <td width="33%" align="center">
-<img src="https://img.shields.io/badge/-Data_Engineering-24265D?style=for-the-badge&logoColor=white" /><br><br>
-Pipeline automation and architecture development. Building medallion data infrastructures, distributed data tasks, and scalable workflow optimization.
+<img src="https://img.shields.io/badge/-Data_Science_&_ML-276DC3?style=for-the-badge&logoColor=white" /><br><br>
+Statistical inference, robust feature engineering, classification benchmarks, and cluster analysis. Expert implementation of cross-validation techniques and hyperparameter optimization to drive real-world KPIs.
 </td>
 <td width="33%" align="center">
-<img src="https://img.shields.io/badge/-Data_Science_&_ML-276DC3?style=for-the-badge&logoColor=white" /><br><br>
-Statistical inference, exploratory data analysis, and advanced classification. Experienced with feature engineering and predictive modeling algorithms.
+<img src="https://img.shields.io/badge/-Data_Engineering-24265D?style=for-the-badge&logoColor=white" /><br><br>
+Pipeline automation and architecture development. Building medallion data infrastructures, distributed data tasks using Spark, and scalable ETL/ELT workflow optimization.
 </td>
 <td width="33%" align="center">
 <img src="https://img.shields.io/badge/-Analytics_&_BI-E97628?style=for-the-badge&logoColor=white" /><br><br>
-Transforming dimensional data models into relational executive summaries. Expert management of advanced filtering, KPIs, and interactive reporting dashboards.
+Transforming dimensional data models into relational executive summaries. Expert management of advanced data cleaning, relational schemas, and interactive reporting dashboards.
 </td>
 </tr>
 </table>
